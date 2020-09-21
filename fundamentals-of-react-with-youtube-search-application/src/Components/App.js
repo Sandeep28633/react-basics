@@ -22,7 +22,6 @@ class App extends React.Component {
   render() {
     return (
       <div className="ui container">
-        <h1>APp</h1>
         <SearchBar onSearchSubmit={this.onSearchClick} />
         <div className="ui grid">
           <div className="ui row">
