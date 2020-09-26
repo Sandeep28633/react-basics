@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "test",
+      "description": "for test purpose only",
+      "id": 1
+    },
+    {
+      "title": "test two",
+      "description": "sdfsdlkh fkdsjf",
+      "id": 2
+    },
+    {
+      "title": "Push test",
+      "description": "ust for fun hmm ok",
+      "id": 4
+    },
+    {
+      "title": "OH total refreactor great",
+      "description": "yeahh",
+      "id": 5
+    }
+  ]
+}
